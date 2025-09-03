@@ -1,8 +1,6 @@
 #pragma once
 #include <Windows.h>
 #include <conio.h>
-
-
 // Ham di chuyen con tro toi toa do ( x, y )
 void gotoXY(int x, int y)
 {
